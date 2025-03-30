@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SonofSyn aka Kai Bissell a junior dev
+- 👋 Hi, I’m @SonofSyn aka Kai Bissell a dev
 - 👀 I’m interested in Typescript, React and Electron
 
 <!---
